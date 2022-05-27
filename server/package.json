@@ -16,7 +16,8 @@
     "mongoose": "^5.9.10",
     "apollo-server-express": "^2.25.1",
     "graphql": "^15.5.0",
-    "@apollo/client": "^3.5.8"
+    "@apollo/client": "^3.5.8",
+    "@apollo/react-hooks": "^4.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
