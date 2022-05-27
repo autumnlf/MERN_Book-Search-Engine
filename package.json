@@ -14,5 +14,13 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autumnlf/MERN_Book-Search-Engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/autumnlf/MERN_Book-Search-Engine/issues"
+  },
+  "homepage": "https://github.com/autumnlf/MERN_Book-Search-Engine#readme"
 }
