@@ -25,3 +25,9 @@ To complete the assignment, you’ll need to do the following:
 
 4. Deploy your application to Heroku with a MongoDB database using MongoDB Atlas. Use the [Deploy with Heroku and MongoDB Atlas](https://coding-boot-camp.github.io/full-stack/mongodb/deploy-with-heroku-and-mongodb-atlas) walkthrough for instructions.
 ```
+---
+
+##Screenshots
+
+![Capture of app](./client/assets/cap1.PNG)
+![Capture of app](./client/assets/cap2.PNG)
