@@ -27,7 +27,7 @@ To complete the assignment, you’ll need to do the following:
 ```
 ---
 
-##Screenshots
+## Screenshots
 
 ![Capture of app](./client/assets/cap1.PNG)
 ![Capture of app](./client/assets/cap2.PNG)
